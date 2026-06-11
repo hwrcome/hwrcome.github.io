@@ -1,0 +1,8 @@
+title: "HW's Blog"
+description: "技术分享与思考"
+url: "https://hwrcome.github.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
